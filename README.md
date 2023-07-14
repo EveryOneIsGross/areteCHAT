@@ -1,10 +1,9 @@
 # areteCHAT
 
+![DreamShaper_v7_An_etching_of_Arete_was_the_goddess_of_excellen_1](https://github.com/EveryOneIsGross/areteCHAT/assets/23621140/af72ae37-066c-49ef-ab29-356b7562ea0b)
+
 In ancient Greek mythology, Arete was the goddess of excellence and virtue. She personified the highest potential of human character and embodied qualities such as wisdom, courage, justice, and compassion. Inspired by this concept of Arete, areteCHAT leverages the VIA Classification of Character Strengths to build personas that embody the virtues of Arete. Traditionally, the VIA Classification has been used to classify and categorize individuals' character strengths. However, areteCHAT takes a unique approach by using the VIA Classification in reverse. Rather than classifying people into predefined categories, it builds chatbot personas based on the 28 aspects.
 By engaging in conversations with the chatbot personas representing different virtues, users have the opportunity to explore and reflect upon these virtues. The chatbot serves as a guide, offering insights, perspectives, and responses that align with the specific virtue's characteristics. 
-
-![DreamShaper_v7_An_etching_of_Arete_was_the_goddess_of_excellen_1](https://github.com/EveryOneIsGross/areteCHAT/assets/23621140/3a7c32e9-41db-424b-bc57-aa6d32dab996)
-
 
 ## Features
 
